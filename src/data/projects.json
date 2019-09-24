@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "name": "Skinner Box",
+      "description": "This is an idle/clicker game in the style of Cookie Clicker, made using React and Redux. I use this app to test out new things that I've learned.",
+      "demo": "https://skinner-box.herokuapp.com/",
+      "code": "https://github.com/citurbe/skinner-box"
+    },
+    {
+      "name": "Tradewind Towers",
+      "description": "This is an animated solution to the classic Towers of Hanoi problem that I originally developed for an interview code challenge. It uses svgs to render the discs, Redux to manage state, and React to control the view.",
+      "demo": "http://tradewind-towers.herokuapp.com/",
+      "code": "https://github.com/citurbe/moving-towers"
+    },
+    {
+      "name": "rntr",
+      "description": "This is an apartment search and rating tool, developed as a final project at the Flatiron school. It uses a React/Redux front end and a Rails/Postgres back end. The app saves user preferences about crime, schools, commute, and amenities. It then accepts apartment addresses as inputs, queries five apis to retrieve data about the apartment's surrounding area, and synthesizes the results into a report, complete with numerical rating. The app also saves past searches. The name is a joke. Mostly.",
+      "demo": "https://apt-rntr.herokuapp.com/",
+      "code": "https://github.com/citurbe/rntr"
+    },
+    {
+      "name": "RestStop",
+      "description": "This is an early project for the Flatiron school that uses vanilla Javascript in a classic MCV pattern. It uses the MTA and Foursquare apis to find highly rated restaurants at every stop along a train route.",
+      "demo": "https://reststop-790ae.firebaseapp.com/",
+      "code": "https://github.com/citurbe/reststop"
+    }
+  ]
+}

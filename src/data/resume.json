@@ -1,0 +1,55 @@
+{
+  "education": [
+    {
+      "degree": "B. A. with honors in English",
+      "institution": "Williams College",
+      "location": "Williamstown, MA",
+      "date": 2004
+    },
+    {
+      "degree": "PhD in English Literature",
+      "institution": "Rutgers University",
+      "location": "New Brunswick, NJ",
+      "date": 2012
+    },
+    {
+      "degree": "Full Stack Web Development",
+      "institution": "The Flatiron School",
+      "location": "New York, NY",
+      "date": 2016
+    }
+  ],
+  "technical skills": "Javascript, React, Redux, Angular, AngularJS, Ruby, Rails, Python, Django, ES6,  jQuery, D3, Less, Sass, Git",
+  "recent experience": [
+    {
+      "company": "Artivest",
+      "location": "New York, NY",
+      "title": "Software Engineer",
+      "dates": "7/2018 - present",
+      "responsibilities": [
+        "Refactored an enterprise AngularJS app to React/Redux.",
+        "Mentored back-end developers in React development and best practices.",
+        "Created a data visualization component to track investment performance with dynamic in-chart calculations.",
+        "Wrote endpoints and serializers in Python/Django to significantly increase the performance of UI components."
+      ]
+    },
+    {
+      "company": "Signafire",
+      "location": "New York, NY",
+      "title": "Software Engineer",
+      "dates": "1/2017 - 7/2018",
+      "responsibilities": [
+        "Wrote front-end features in Angular 4  that are in daily use by Fortune 500 companies.",
+        "Created a flexible data visualization system using D3.",
+        "Quickly deployed features and customizations for POC programs, leading to significant new business."
+      ]
+    }
+  ],
+  "other experience": [
+    "Producer at Potion, a digital design studio, from 2015-2016.",
+    "Technical writer and client trainer at PatronManager, a salesforce-based ticketing system, from 2013-2015."
+  ],
+  "volunteer experience": [
+    "Instructor with Code Nation (formerly ScriptEd), teaching web development in a NYC public high school, 2017 - present"
+  ]
+}
