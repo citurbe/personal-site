@@ -9,7 +9,8 @@ const Project = props => (
         <a target="blank" href={props.project.demo}>
           demo
         </a>
-        <a target="blank" href={props.project.demo}>
+        {` | `}
+        <a target="blank" href={props.project.code}>
           code
         </a>
       </div>
