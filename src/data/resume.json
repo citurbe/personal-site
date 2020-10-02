@@ -22,10 +22,21 @@
   "technical skills": "Javascript, React, Redux, Angular, AngularJS, Ruby, Rails, Python, Django, ES6,  jQuery, D3, Less, Sass, Git",
   "recent experience": [
     {
+      "company": "Nova Credit",
+      "location": "New York, NY",
+      "title": "Software Engineer",
+      "dates": "1/2020 - 8/2020",
+      "responsibilities": [
+        "Created a new CMS-driven marketing site using Gatsby and GraphQl, cutting page load times in half.",
+        "Implemented a mobile-responsive redesign in React on NovaConnect, Nova Credit’s core consumer-facing product.",
+        "Added new features to a mutli-lingual web app, serving newcomers to the United States in eight languages."
+      ]
+    },
+    {
       "company": "Artivest",
       "location": "New York, NY",
       "title": "Software Engineer",
-      "dates": "7/2018 - present",
+      "dates": "7/2018 - 12/2019",
       "responsibilities": [
         "Refactored an enterprise AngularJS app to React/Redux.",
         "Mentored back-end developers in React development and best practices.",
